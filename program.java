@@ -9,5 +9,6 @@ System.out.println(x);
 System.out.println(5);
 System.out.println("y");
 }
+System.out.println("xyz");
 }
 }
