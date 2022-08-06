@@ -6,7 +6,7 @@ class hello
     int a;
     for(a=10;a<21;a++)
     {
-      System.out.println(a)
+      System.out.println(a);
       }
   }
 }
